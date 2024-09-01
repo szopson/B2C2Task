@@ -5,16 +5,28 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigReader {
+    private static ConfigReader instance;
     private Properties properties;
 
-    public ConfigReader() {
+    // Private constructor to prevent external instantiation
+    private ConfigReader() {
         properties = new Properties();
         try {
-            FileInputStream configStream = new FileInputStream("src/resources/config.properties");
-            properties.load(configStream);
+            properties.load(new FileInputStream("src/test/resources/config.properties"));
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new RuntimeException("Failed to load configuration properties", e);
         }
+    }
+
+    public static ConfigReader getInstance() {
+        if (instance == null) {
+            synchronized (ConfigReader.class) {
+                if (instance == null) {
+                    instance = new ConfigReader();
+                }
+            }
+        }
+        return instance;
     }
 
     public String getProperty(String key) {

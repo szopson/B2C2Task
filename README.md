@@ -41,3 +41,8 @@ The framework utilizes the Page Object Model (POM) to promote code reusability a
    ```sh
    mvn clean test
    ```
+
+# Future improvements:
+- Add configs and management of that configs for separate environments
+- Add reporting tools, for example Allure
+- 

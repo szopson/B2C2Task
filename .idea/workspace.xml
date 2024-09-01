@@ -4,15 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc508ce9-39ef-4469-989b-f3bbd7307ef5" name="Changes" comment="" />
+    <list default="true" id="bc508ce9-39ef-4469-989b-f3bbd7307ef5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ContactFormSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ContactFormSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/WaitUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/WaitUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ContactForm.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ContactForm.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Homepage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Homepage.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lPq5uMYio4If3uLHIHsU4VApYS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +44,156 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Feature: ContactForm.executor": "Run",
+    "Cucumber Java.Feature: Homepage (1).executor": "Run",
+    "Cucumber Java.Feature: Homepage.executor": "Run",
+    "Cucumber Java.Scenario: Dropdown interaction and validation.executor": "Run",
+    "Cucumber Java.Scenario: Input field validation.executor": "Run",
+    "Cucumber Java.Scenario: Verify all input fields and dropdowns are visible and operational.executor": "Run",
+    "Cucumber Java.Scenario: Verify that clicking on each main menu link navigates to the correct page -  - Example n°1.executor": "Run",
+    "Cucumber Java.Scenario: Verify that clicking on each nav main menu link navigates to the correct page.executor": "Run",
+    "Cucumber Java.Scenario: Verify the homepage loads correctly and all elements are functional (1).executor": "Run",
+    "Cucumber Java.Scenario: Verify the homepage loads correctly and all elements are functional.executor": "Run",
+    "Maven.B2C2-task [clean].executor": "Run",
+    "Maven.B2C2-task [compile].executor": "Run",
+    "Maven.B2C2-task [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.B2C2-task [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
+    "Maven.B2C2-task [package].executor": "Run",
+    "Maven.B2C2-task [test].executor": "Run",
+    "Maven.B2C2-task [validate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jakub Baranowski/IdeaProjects/B2C2-task/src/test/java/stepDefinition",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jakub Baranowski\IdeaProjects\B2C2-task\src\test" />
+      <recent name="C:\Users\Jakub Baranowski\IdeaProjects\B2C2-task\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Dropdown interaction and validation">
+    <configuration name="Feature: ContactForm" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ContactForm.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="B2C2-task" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ContactForm" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Homepage (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Homepage.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="B2C2-task" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Homepage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Dropdown interaction and validation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ContactForm.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="B2C2-task" />
+      <option name="NAME_FILTER" value="^Dropdown interaction and validation$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Dropdown interaction and validation$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Dropdown interaction and validation" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Input field validation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ContactForm.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="B2C2-task" />
+      <option name="NAME_FILTER" value="^Input field validation$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Input field validation$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Input field validation" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify all input fields and dropdowns are visible and operational" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ContactForm.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="B2C2-task" />
+      <option name="NAME_FILTER" value="^Verify all input fields and dropdowns are visible and operational$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify all input fields and dropdowns are visible and operational$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify all input fields and dropdowns are visible and operational" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Dropdown interaction and validation" />
+        <item itemvalue="Cucumber Java.Scenario: Input field validation" />
+        <item itemvalue="Cucumber Java.Scenario: Verify all input fields and dropdowns are visible and operational" />
+        <item itemvalue="Cucumber Java.Feature: ContactForm" />
+        <item itemvalue="Cucumber Java.Feature: Homepage (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastUrl" value="about:blank?wi_0" />
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,11 +210,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725091884350</updated>
-      <workItem from="1725091885429" duration="11000" />
+      <workItem from="1725091885429" duration="218000" />
+      <workItem from="1725092231038" duration="33584000" />
+      <workItem from="1725191667604" duration="3484000" />
+      <workItem from="1725195374694" duration="3871000" />
+      <workItem from="1725199650237" duration="536000" />
+      <workItem from="1725202855532" duration="5239000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>67</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>68</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>93</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>94</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>63</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>59</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>60</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>61</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.22.0/selenium-support-4.22.0.jar!/org/openqa/selenium/support/ui/Select.class</url>
+          <line>62</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
